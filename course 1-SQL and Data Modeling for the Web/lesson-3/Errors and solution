@@ -1,0 +1,38 @@
+ERRORS:
+
+1,.Traceback (most recent call last):
+  File "demo.py", line 3, in <module>
+    conn = psycopg2.connect('dbname=mydb')
+  File "/home/akanchha/Desktop/My-Work-Public/Udacity NanoDegree course/tutorial-env/lib/python3.6/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: FATAL:  role "akanchha" does not exist
+
+Solution
+Open Terminal and enter => sudo su postgres
+install required library and continue
+
+To see the details of table:
+
+1.postgres apps
+Command
+Description
+log in as username. Default installed user is
+$ sudo -u <username> -i
+called postgres
+$ createdb <dbname> Create a database
+$ dropdb <dbname> Destroy a datbase
+$ dropdb <dbname> && createdb <dbname> Reset a database
+psql
+Command
+$ psql <dbname> [<username>]
+Description
+Start psql with a connection to dbname. Optionally use
+another user than current user
+# \l List all databases on the server, owners,access levels
+# \c <dbname> Connect to a database named
+# \dt Show database tables
+# \d <tablename> Describe table schema
+# \q Quit psql, return to the terminal
+# \c , switch between database
+#  SELECT * from <tablename>, show table details
+

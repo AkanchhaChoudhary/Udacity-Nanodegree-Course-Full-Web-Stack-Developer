@@ -1,0 +1,19 @@
+WHAT I DID IN THIS LESSON:
+
+1.created basic flask application(Hello.py)
+2.INcorporated and confirgured SQLAlchemy to application to communicate with real database
+3.Inserting records in application by creating instance of the database "db = SQLAlchemy(app)"
+4.using db.create_all() to create table for models
+
+MY LEARNING FROM THIS LESSON:
+db = SQLAlchemy(app)
+db is an interface for interacting with our database
+db.Model lets us create and manipulate data models
+db.session lets us create and manipulate database transactions
+FLASK_APP=hello.py flask run
+
+SQLALCHEMY CHEATSHEET AND LINKS TO READ
+https://github.com/crazyguitar/pysheeet/blob/master/docs/notes/python-sqlalchemy.rst#set-a-database-url
+https://www.compose.com/articles/using-postgresql-through-sqlalchemy/
+
+
