@@ -1,0 +1,8 @@
+WHAT I DID IN THIS LESSON:
+
+1.created basic flask application(Hello.py)
+2.INcorporated and confirgured SQLAlchemy to application to communicate with real database
+3.Insertig records in application by creating instance of the database "db = SQLAlchemy(app)"
+4.using db.create_all() to create table for models
+
+

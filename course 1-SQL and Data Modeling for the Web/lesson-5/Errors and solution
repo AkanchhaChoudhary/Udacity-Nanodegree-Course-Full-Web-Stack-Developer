@@ -1,0 +1,7 @@
+ERRORS:
+
+1,.Tsqlalchemy.exc.OperationalError: (psycopg2.OperationalError) fe_sendauth: no password supplied
+
+Sol:You probably just need to remove "localhost" from your connection string:
+
+'postgresql:///db_name'
