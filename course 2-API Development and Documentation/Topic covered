@@ -1,0 +1,54 @@
+TOPIC II COVERED:
+
+LESSON 1:
+1. Welcome!
+ 2. What are APIs
+ 3. How APIs Work
+ 4. Internet Protocols
+ 5. RESTful APIs
+
+LESSON 2:
+ 1. OVERVIEW
+ 2. Introduction to HTTP
+ 3. HTTP Requests
+ 4. HTTP Responses
+ 5. Intro to Flask
+ 6. Introduction to Curl and Chrome De
+
+LESSON 3:
+
+ 1. Introduction
+ 2. Organizing API endpoints
+ 3. CORS
+ 4. Flask-CORS
+ 5. Flask - Route Decorator and Pagination
+ 6. Exercise Solution
+ 7. Quiz
+ 8. Flask Error Handling
+ 9. Review
+
+LESSON 4:
+
+ 1. Overview
+ 2. Testing in Flask
+ 3. Practice - Testing in Flask
+ 4. TDD for APIs
+ 5. Practice - TDD for APIs
+
+LESSON 5:
+
+ 1. Overview
+ 2. Documentation Examples
+ 3. Best Practices
+ 4. API Documentation Lab
+ 5. Project Documentation
+ 6. Project Documentation Lab
+
+LESSON 6:PROJECT TRIVIA APP BUILDING
+
+ 1. Project Overview
+ 2. Frontend Instructions
+ 3. Frontend - Expected Endpoints
+ 4. Backend Instructions
+ 5. Project: Trivia API
+

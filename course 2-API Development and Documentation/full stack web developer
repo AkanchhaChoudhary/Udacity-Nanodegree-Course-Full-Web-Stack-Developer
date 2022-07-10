@@ -1,0 +1,71 @@
+BACKEND
+FRONTEND
+PYTHON
+JAVASCRIPT
+API-WHAT HOW WHY
+HANDLING HTTPS REQUEST
+ROUTING AND API ENDPOINTS
+
+VERSION OF API
+TESTING
+
+what technology is used for frontend
+what technology yiu used for backend
+what DBMS DO YOU USE
+
+APIS
+api integration
+api ecosystem
+share information with local and global social networks
+accessing data
+where is it being used-
+adding or enhancing functionality of internal and external systems/customers
+speeding up software and system development:
+microservices
+reducing operating costs:
+allowing developers to build reusable components
+reducing architectural complexity
+reducing the effort required to make changes to systems.
+and api testing can be integrated into the ci / cd pipeline.
+improve organizational security
+power single sign-on
+api to quickly identify a specific problem with a manufacturing line, and even recommend a fix
+internal apis/external apis/partner apis 
+api architectural styles
+CHALLENGES:
+time limit
+Lack of documentation:
+Lack of knowledge
+Lack of people
+Complexity: 
+Stakeholder prioritization
+Lack of budget
+Stakeholder expectations (unrealistic/unclear)
+API consumers and API producers 
+come in many shapes and sizes
+
+REST API
+REST APIs provide simple, uniform interfaces because they can be used to make data, content, algorithms, media, and other digital resources available through web URLs
+Use of a uniform interface (UI)
+Client-server based
+Client-server based
+RESTful resource caching
+REST allows for an architecture composed of hierarchical layers
+It works through GET,PUT,POST ,DELETE
+REST helps you better organize your digital resources and the operations you can perform against THEM
+what a resource is, and how it can be represented using APIs,
+why RESTful web servers are not allowed to remember anything about the previous requests that the user has sent.
+stateless servers make your applications scalable.
+Each computer must have a unique IP address that identifies it from all other computers connected to the internet
+Our API will transmit data to our client via HTTP so we will primarily focus on that protocol.
+REST is the underlying architectural principle of the web
+Flask is python micro framework used to build api
+Curl and CHrome devtools to test endpoints locally
+HTTP
+HTTP is a TCP/IP based communication protocol that is used to deliver data (HTML files, image files, query results, etc.)
+connectionless means I cannot send receipt of receiving to the server
+HTTP is media independent
+Flask is the tool we'll use to create our API server.
+there are lots of extended lbraries that can be used to handle flask app
+correct setup directories are important
+larger applications that utilize multiple environments and configurations (production, development, testing, etc)
