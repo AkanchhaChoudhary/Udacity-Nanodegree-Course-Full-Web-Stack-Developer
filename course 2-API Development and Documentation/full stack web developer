@@ -69,3 +69,10 @@ Flask is the tool we'll use to create our API server.
 there are lots of extended lbraries that can be used to handle flask app
 correct setup directories are important
 larger applications that utilize multiple environments and configurations (production, development, testing, etc)
+
+you'll learn about how to extend the Flask microframework so that we can:
+Organize API Endpoints
+Handle Cross-Origin Resource Sharing (CORS)
+Parse the request path and body
+Use POST, PATCH, and DELETE requests in Flask
+Handle errors

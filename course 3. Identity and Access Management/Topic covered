@@ -1,0 +1,65 @@
+TOPIC II COVERED:
+
+LESSON 1:
+
+ 1. Course Intro
+ 2. Recap - HTTP, Flask, and Postman
+ 3. Recap - SQLAlchemy
+ 4. Recap - Python Decorators
+
+LESSON 2:
+
+ 1. Lesson Intro
+ 2. Common Authentication Methods
+ 3. Alternative Authentication Methods
+ 4. Third-Party Auth Systems
+ 5. Implementing Auth0
+ 6. JWT - JSON Web Tokens
+ 7. JWT - Datastructure
+ 8. JWT - Validation
+ 9. Practice - Generating and Verifying JWTs
+ 10. Practice - Validating Auth0 Tokens
+ 11. Recap - Local Storage
+ 12. Storing JWTs
+ 13. Sending Tokens
+ 14. Practice - Sending Tokens
+ 15. Practice - Applying Skills in Flask
+
+LESSON 3:
+
+ 1. Introduction
+ 2. Problems with Plain Text
+ 3. Problems - Brute Force Attacks
+ 4. Practice - Brute Force
+ 5. Problems - Data Handling and Logging
+ 6. Introduction to Encryption
+ 7. Using Encryption for User Tables
+ 8. Practice - Using Cryptography
+ 9. Asymmetric Encryption
+ 10. Hashing
+ 11. Practice - Rainbow Tables
+ 12. Hashing with Salts
+ 13. Practice - Salted, Hashed Password
+
+LESSON 4:
+
+ 1. Lesson Intro
+ 2. Role-Permission Based Access
+ 3. Defining Roles in Auth0
+ 4. Using RBAC in Flask
+ 5. Restricting Features in Frontend
+
+LESSON 5:
+
+  1. Lesson Intro
+ 2. Limiting Access to Code and Systems
+ 3. Code Review for Security
+ 4. Auth Validation Testing
+ 5. Alternate Attack Vectors
+ 6. Staying Ahead of the Attackers
+ 7. Course Recap
+
+LESSON 6:PROJECT TRIVIA APP BUILDING
+
+ 1. Project Instructions
+ 2. Project: Coffee Shop Full Stack
